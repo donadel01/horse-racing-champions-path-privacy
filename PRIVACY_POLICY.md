@@ -48,7 +48,7 @@ We may update this policy. The effective date above will identify the current ve
 
 Beygir Studio  
 Email: `mo847313@gmail.com`  
-Website: `[[https://horse-racing-champions-path-privacy.mo847313.chatgpt.site](https://github.com/donadel01/horse-racing-champions-path-privacy/blob/main/PRIVACY_POLICY.md)](https://github.com/donadel01/horse-racing-champions-path-privacy/blob/main/PRIVACY_POLICY.md)`
+Website: `https://github.com/donadel01/horse-racing-champions-path-privacy/blob/main/PRIVACY_POLICY.md`
 
-Published at: `[[https://horse-racing-champions-path-privacy.mo847313.chatgpt.site](https://github.com/donadel01/horse-racing-champions-path-privacy/blob/main/PRIVACY_POLICY.md)](https://github.com/donadel01/horse-racing-champions-path-privacy/blob/main/PRIVACY_POLICY.md)`
+Published at: `https://github.com/donadel01/horse-racing-champions-path-privacy/blob/main/PRIVACY_POLICY.md`
 
